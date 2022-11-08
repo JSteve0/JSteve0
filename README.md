@@ -44,6 +44,14 @@ I am a junior computer science student at Millersville University🎓.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" **alt="csharp" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSteve0&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSteve0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JSteve0/JSteve0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

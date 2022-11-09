@@ -53,6 +53,12 @@ I am a junior computer science student at Millersville University🎓.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSteve0&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+C    24 mins         █████████████████████▓░░░   87.02 %
+C#   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--

@@ -19,7 +19,7 @@
 
 I am a junior computer science student at Millersville University🎓.
 
-- 🔭 I’m previously worked as an application developer intern.
+- 🔭 I’ve previously worked as an application developer intern.
 - ⚡  In my free time I golf ⛳️ , write code, and play a variety of videogames🕹.
 - 💻 I’m currently working on a heap allocator, a file system, a microsurgery simulator, and making a game in Unity.
 

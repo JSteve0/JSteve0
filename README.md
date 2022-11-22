@@ -21,7 +21,7 @@ I am a junior computer science student at Millersville University🎓.
 
 - 🔭 I’ve previously worked as an application developer intern.
 - ⚡  In my free time I golf ⛳️ , write code, and play a variety of videogames🕹.
-- 💻 I’m currently working on a heap allocator, an advanced file system, a microsurgery simulator, and making a tower defense game in Unity.
+- 💻 I’m currently working on a lottery scheduler for the XV6 Operating System, an advanced file system, a microsurgery simulator, and making a tower defense game in Unity.
 
 ---
 

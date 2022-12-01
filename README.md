@@ -54,7 +54,7 @@ I am a junior computer science student at Millersville University🎓.
 
 ### :fire: Weekly Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -62,11 +62,11 @@ I am a junior computer science student at Millersville University🎓.
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 32 mins       ███████████████████░░░░░░   75.75% 
-C                        26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
-Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+C                        4 hrs 45 mins       ███████████████████░░░░░░   77.03% 
+C#                       1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 ```
 

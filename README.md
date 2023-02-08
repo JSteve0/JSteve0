@@ -54,7 +54,7 @@ I am a junior computer science student at Millersville University🎓.
 
 ### :fire: Weekly Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -62,11 +62,11 @@ I am a junior computer science student at Millersville University🎓.
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 18 mins       ████████████████████░░░░░   80.72% 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+JavaScript               9 hrs 50 mins       ████████████████████████░   95.78 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 ```
 

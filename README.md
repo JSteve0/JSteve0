@@ -28,9 +28,19 @@ I am a senior computer scientist at Millersville University🎓.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JSteve0&theme=dark)](https://git.io/streak-stats)
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=JSteve0&theme=dark" />
+</td>
+<td width="50%" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSteve0&layout=compact&theme=vision-friendly-dark&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CPP&exclude_repo=OpenGLGraphicsEngine)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSteve0&layout=compact&theme=vision-friendly-dark&langs_count=6&size_weight=0.5&count_weight=0.5&hide=CPP&exclude_repo=OpenGLGraphicsEngine"/>
+  
+</td>
+</tr>
+</table>
 
 ### 🛠 &nbsp;Languages and Tools :
 

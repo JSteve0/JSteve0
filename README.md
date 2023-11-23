@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there 👋, my name is Justin Stevens</h1>
-  <img src="https://media4.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/></p>
+  <img src="https://media4.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="300"/></p>
 </div>
 
 <div id="badges" align="center">

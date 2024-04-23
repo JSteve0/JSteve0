@@ -19,7 +19,6 @@
 
 I am a senior computer scientist at Millersville University🎓.
 
-- 🔭 I'm currently working as a software developer intern at CNH Industruial.
 - ⚡ In my free time I golf ⛳️ , write code, and play a variety of videogames🕹.
 - 💻 I’m currently working on a a microsurgery simulator and training an AI to play a tower defense game.
 - 🌱 I’m currently learning more about reinforcement learning. 

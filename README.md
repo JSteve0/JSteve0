@@ -17,7 +17,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a senior computer scientist at Millersville University🎓.
+I am a May 2024 computer science graduate at Millersville University🎓.
 
 - ⚡ In my free time I golf ⛳️ , write code, and play a variety of videogames🕹.
 - 💻 I’m currently working on a a microsurgery simulator and training an AI to play a tower defense game.

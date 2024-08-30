@@ -15,14 +15,6 @@
 </div>
 --->
 
-### :man_technologist: &nbsp;About Me :
-
-I am a May 2024 computer science graduate at Millersville University🎓.
-
-- ⚡ In my free time I golf ⛳️ , write code, and play a variety of videogames🕹.
-- 💻 I’m currently working on a a microsurgery simulator and training an AI to play a tower defense game.
-- 🌱 I’m currently learning more about reinforcement learning. 
-
 ---
 
 ### :fire: My Stats :
